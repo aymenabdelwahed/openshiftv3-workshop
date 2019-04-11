@@ -143,14 +143,14 @@ metadata:
   uid: 071ee3ef-86d2-11e7-aec4-52540019c877
 spec:
   accessModes:
-  - ReadWriteMany
+  - ReadWriteOnce
   resources:
     requests:
       storage: 1Gi
   volumeName: pvc-071ee3ef-86d2-11e7-aec4-52540019c877
 status:
   accessModes:
-  - ReadWriteMany
+  - ReadWriteOnce
   capacity:
     storage: 1Gi
   phase: Bound
