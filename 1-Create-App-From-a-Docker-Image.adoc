@@ -113,9 +113,7 @@ Now add a route to the service with the following command. `oc expose`
 command will allow you to expose your service to the world so that you
 can access it from the browser.
 
-*Note*: In this example, I am using a domain name of
-`apps.workshop.osecloud.com`. *Ask the instructor for the domain name suffix* for
-your setup an change it.
+*Note*: In this example, we are using a dynamically generic domain name created by Azure Red Hat OpenShift during the deployment.
 
 ....
 $ oc expose service welcome --name=welcome
