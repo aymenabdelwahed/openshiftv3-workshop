@@ -18,13 +18,9 @@ interface (OCP CLI)
 The OCP CLI exposes commands for managing applications, as well as
 lower-level tools to interact with each component of a system. The
 binaries for Mac, Windows, and Linux are available for download from the
-Red Hat Customer Portal via the following methods:
+via the following methods:
 
-* Supported Binary from the Red Hat Portal: https://access.redhat.com/downloads/content/290
-* Upstream Origin Binary: https://github.com/openshift/origin/releases
-* Past releases: https://mirror.openshift.com/pub/openshift-v3/clients
-
-Direct Links for Latest versions:
+*Direct Links for Latest Upstream versions:*
 
 * Linux Latest Version 3.11 https://mirror.openshift.com/pub/openshift-v3/clients/3.11.179/linux/
 * Windows Latest Version 3.11 https://mirror.openshift.com/pub/openshift-v3/clients/3.11.179/windows/
