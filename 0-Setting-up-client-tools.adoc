@@ -25,6 +25,7 @@ Red Hat Customer Portal via the following methods:
 * Past releases: https://mirror.openshift.com/pub/openshift-v3/clients
 
 Direct Links for Latest versions:
+
 * Linux Latest Version 3.11 https://mirror.openshift.com/pub/openshift-v3/clients/3.11.179/linux/
 * Windows Latest Version 3.11 https://mirror.openshift.com/pub/openshift-v3/clients/3.11.179/windows/
 
