@@ -28,7 +28,7 @@ Open the browser and select your new project *My JBoss Applications*.
 
 Click into *Browse Catalog* button.
 
-In the search text box type `EAP 6.4` and select `JBoss EAP 6.4 (no https)`.
+In the search text box type `EAP 7.2` and select `JBoss EAP 7.2`.
 
 Click Next
 
@@ -38,11 +38,12 @@ Add to Project: select your project name if it is not show
 
 Application Name: ks
 
-Git Repository URL: https://github.com/RedHatWorkshops/kitchensink
+Git Repository URL: https://github.com/RedHatWorkshops/kitchensink.git
 
 Git Reference: master
 
 Context Directory: /
+
 ....
 
 image::images/jboss_wizard_configuration.png[image]
